@@ -1,0 +1,22 @@
+start
+get the first set
+get the second set
+get another variable sum=o
+compare the element in set 1 to set 2
+is an element  found in set 1 also found in set 2 
+if true let sum=sum+0
+if false let sum=sum+[the element]
+repeat step 4,step 5, step 6 sequentially till all element in set 1 has been completely evaluated
+get the sum
+compare the element in set 2 to set 1
+is an element in set 2 found in set 1
+if true let sum=sum+0
+if false let sum=sum+[the element]
+repeat step 8, step 9, step 10, sequentially till all element in set 2 has been completely evaluated
+get the sum 
+end
+
+start
+get v1
+get v2
+get a variable called dot_product
